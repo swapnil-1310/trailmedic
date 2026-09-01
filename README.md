@@ -177,9 +177,6 @@ TrailMedic was conceived for the iQOO Hackathon 2026 under the **AI + Safety** t
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE)
 
 ---
 
