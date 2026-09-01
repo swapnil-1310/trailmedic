@@ -1,8 +1,5 @@
 # 🏔️ TrailMedic — Offline AI First Aid for Trekkers
 
-<p align="center">
-  <img src="docs/screenshots/banner.png" alt="TrailMedic Banner" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android"/>
